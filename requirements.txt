@@ -1,0 +1,10 @@
+hydra-core>=1.1.1
+cookiecutter
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+scipy
+pycaret
